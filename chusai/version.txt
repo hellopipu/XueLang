@@ -1,0 +1,19 @@
+TEAM: VGG19 , MEMBER:Bingyu Xin , BaiZhang Ding
+###############operation system#################
+ubuntu 16.04
+cuda 9.1
+cudnn 7.1
+###############python package #################
+torch 0.4.0
+numpy 1.14.0
+cv2   3.4.1
+pandas 0.22.0
+lightgbm 2.1.2
+pretrainedmodels 0.7.0
+sklearn  0.19.1
+################pretrained model################
+pretrained xception model of ImageNet from :
+https://github.com/Cadene/pretrained-models.pytorch 
+It can download automaticly in code
+################################################
+
