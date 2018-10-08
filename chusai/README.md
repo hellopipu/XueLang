@@ -35,26 +35,26 @@
 Heatmaps of *model1* on validation samples are show as below:
 <table>
   <tr>
-    <td><img src="/img/CAM0.jpg?raw=true" width="400"></td>
-    <td><img src="/img/annotate0.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/CAM0.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/annotate0.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="/img/CAM1.jpg?raw=true" width="400"></td>
-    <td><img src="/img/annotate1.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/CAM1.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/annotate1.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="/img/CAM2.jpg?raw=true" width="400"></td>
-    <td><img src="/img/annotate2.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/CAM2.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/annotate2.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="/img/CAM3.jpg?raw=true" width="400"></td>
-    <td><img src="/img/annotate3.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/CAM3.jpg?raw=true" width="400"></td>
+    <td><img src="/chusai/img/annotate3.jpg?raw=true" width="400"></td>
   </tr>
 </table>
 
