@@ -30,7 +30,7 @@
   3. You can use my [trained weights](https://pan.baidu.com/s/1oXgXuNvEk2hP393SaKofFQ)*(code:6zbs)*. Save the weights to "./XueLang_31_vgg19/data/weights",
   then skip *train_3_model()*
   4. You have to tuning the lightbgm parameter for the best result if you train your own models! only run model_fusion() to funetune.
-  **DO NOT MODIFY THE BATCHSIZE if you don't understand the whole code !**
+  
 ## Heatmap
 Heatmaps of *model1* on validation samples are show as below:
 <table>
